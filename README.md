@@ -1,6 +1,6 @@
 # SkyLink Airline Reservation & Flight Management System
 
-SkyLink is a **pure OOP C++17 console application** built for a university assignment. All authentication and role‑based screens have been removed per the project specification – the program launches directly into the unified **14‑option management menu**.
+Skylink is a**pure OOP C++17 console application** built for a university assignment. All authentication and role‑based screens have been removed per the project specification – the program launches directly into the unified **14‑option management menu**.
 
 ## 📂 Project Structure
 ```
