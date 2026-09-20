@@ -68,7 +68,7 @@ git push origin main
 ```
 Make sure you have network access; the repository URL is:
 ```
-https://github.com/khabsarali/SkyLink-Airline-Reservation-System
+https://github.com/Misbah-Khurshid/SkyLink-Airline-Reservation-System
 ```
 
 ## 🚀 Key Features
